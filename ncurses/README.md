@@ -16,3 +16,6 @@ Three example Wireworld board have been provided - two are valid and one is inva
 
 ### Requirements
 The compiler used in the *makefile* is GCC (https://gcc.gnu.org/) and you will need to have this installed in order to use it. Also, due to the use of ncurses, this will only work in unix-style terminals.
+
+## neillncurses
+There are two files ```neillncurses.c``` and ```neillncurses.h``` that I have not written. These were written by Neill Campbell (http://www.bristol.ac.uk/engineering/people/neill-w-campbell/index.html) to facilitate the use of ncurses in the assignment (as the direct use of this library was not being assessed).
