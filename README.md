@@ -1,5 +1,5 @@
 # Wireworld
-Wireworld was the first assignment (completed in October 2016) of my Programing in C course. The assignment involved writing a program that would display the progression of a cellular automata, Wireworld. Wireworld is a cellular automation invented by Brian Silverman and is formed from a 2D grid of cells, designed to simulate digital electronics. For the rules please see:
+Wireworld, completed in October 2016, was the first assignment of my Programing in C course. The assignment involved writing a program that would display the progression of a cellular automata, Wireworld. Wireworld is a cellular automation invented by Brian Silverman and is formed from a 2D grid of cells, designed to simulate digital electronics. For the rules please see:
 
 - https://en.wikipedia.org/wiki/Wireworld
 - http://www.heise.ws/fourticklogic.html
